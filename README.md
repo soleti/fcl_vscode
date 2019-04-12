@@ -1,2 +1,3 @@
-# fcl_vscode
-FHiCL language support for Visual Studio Code
+# FHiCL language support for Visual Studio Code
+
+Just copy the folder in `.vscode/extensions`
