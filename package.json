@@ -1,0 +1,25 @@
+{
+    "name": "fcl",
+    "displayName": "fcl",
+    "description": "Fermilab Hierarchical Configuration Language",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "fcl",
+            "aliases": ["FHiCL", "fcl"],
+            "extensions": [".fcl"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "fcl",
+            "scopeName": "source.fcl",
+            "path": "./syntaxes/fcl.tmLanguage.json"
+        }]
+    }
+}
