@@ -2,4 +2,4 @@
 
 Just copy the folder in `.vscode/extensions`
 
-Ported from `https://github.com/justinvasel/atom-language-fhicl`
+Ported from https://github.com/justinvasel/atom-language-fhicl
