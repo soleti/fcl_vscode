@@ -4,7 +4,8 @@
     "publisher": "robertosoleti",
     "repository": "https://github.com/soleti/fcl_vscode",
     "description": "Fermilab Hierarchical Configuration Language",
-    "version": "0.1.0",
+    "version": "0.1.2",
+    "icon": "fnal_logo.png",
     "engines": {
         "vscode": "^1.33.0"
     },
