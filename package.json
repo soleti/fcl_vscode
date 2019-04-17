@@ -1,8 +1,10 @@
 {
     "name": "fcl",
-    "displayName": "fcl",
+    "displayName": "Fermilab Hierarchical Configuration Language support",
+    "publisher": "robertosoleti",
+    "repository": "https://github.com/soleti/fcl_vscode",
     "description": "Fermilab Hierarchical Configuration Language",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.33.0"
     },
